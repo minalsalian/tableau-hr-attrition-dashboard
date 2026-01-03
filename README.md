@@ -40,6 +40,7 @@ Majority of exits occur within 0–3 years
 Slightly higher attrition among male employees
 
 🛠 Tools Used
+
 Tableau Desktop
 
 Excel (HR Attrition dataset)
