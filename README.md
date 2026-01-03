@@ -4,6 +4,7 @@ This project is an interactive HR Attrition Analytics Dashboard built using Tabl
 It analyzes employee turnover across departments, job roles, gender, salary, and tenure.
 
 🔥Dashboard Features:
+
 *KPI metrics:
 
 -Total Employees
@@ -43,5 +44,5 @@ Tableau Desktop
 
 Excel (HR Attrition dataset)
 
-📸 Dashboard Preview
+📸 Dashboard Preview(HR Attrition & Workforce Analytics Dashboard)
 <img width="991" height="793" alt="dashboard_full_view" src="https://github.com/user-attachments/assets/08f8e1e9-0820-4a4f-95da-14348896f17b" />
